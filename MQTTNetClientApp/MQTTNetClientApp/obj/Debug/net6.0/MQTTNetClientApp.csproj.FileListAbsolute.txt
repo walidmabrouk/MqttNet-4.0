@@ -1,0 +1,17 @@
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\bin\Debug\net6.0\MQTTNetClientApp.exe
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\bin\Debug\net6.0\MQTTNetClientApp.deps.json
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\bin\Debug\net6.0\MQTTNetClientApp.runtimeconfig.json
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\bin\Debug\net6.0\MQTTNetClientApp.dll
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\bin\Debug\net6.0\MQTTNetClientApp.pdb
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\bin\Debug\net6.0\MQTTnet.dll
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\obj\Debug\net6.0\MQTTNetClientApp.csproj.AssemblyReference.cache
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\obj\Debug\net6.0\MQTTNetClientApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\obj\Debug\net6.0\MQTTNetClientApp.AssemblyInfoInputs.cache
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\obj\Debug\net6.0\MQTTNetClientApp.AssemblyInfo.cs
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\obj\Debug\net6.0\MQTTNetClientApp.csproj.CoreCompileInputs.cache
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\obj\Debug\net6.0\MQTTNetClientApp.csproj.CopyComplete
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\obj\Debug\net6.0\MQTTNetClientApp.dll
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\obj\Debug\net6.0\refint\MQTTNetClientApp.dll
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\obj\Debug\net6.0\MQTTNetClientApp.pdb
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\obj\Debug\net6.0\MQTTNetClientApp.genruntimeconfig.cache
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\MQTTNetClientApp\MQTTNetClientApp\obj\Debug\net6.0\ref\MQTTNetClientApp.dll

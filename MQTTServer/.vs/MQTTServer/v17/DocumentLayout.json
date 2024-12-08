@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walid\\OneDrive\\Bureau\\Study 2025\\Developmment Web Services\\MQTTServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0003F2-EC56-4358-AE23-59059983E85D}|MQTTServer\\MQTTServer.csproj|c:\\users\\walid\\onedrive\\bureau\\study 2025\\developmment web services\\mqttserver\\mqttserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0003F2-EC56-4358-AE23-59059983E85D}|MQTTServer\\MQTTServer.csproj|solutionrelative:mqttserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 275,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\walid\\OneDrive\\Bureau\\Study 2025\\Developmment Web Services\\MQTTServer\\MQTTServer\\Program.cs",
+              "RelativeDocumentMoniker": "MQTTServer\\Program.cs",
+              "ToolTip": "C:\\Users\\walid\\OneDrive\\Bureau\\Study 2025\\Developmment Web Services\\MQTTServer\\MQTTServer\\Program.cs",
+              "RelativeToolTip": "MQTTServer\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:00:06.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
